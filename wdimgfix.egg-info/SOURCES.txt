@@ -1,0 +1,7 @@
+wdimgfix.py
+wdimgfix.egg-info/PKG-INFO
+wdimgfix.egg-info/SOURCES.txt
+wdimgfix.egg-info/dependency_links.txt
+wdimgfix.egg-info/entry_points.txt
+wdimgfix.egg-info/requires.txt
+wdimgfix.egg-info/top_level.txt
